@@ -1,4 +1,4 @@
-public class blockstackgame {
+public class quartet {
     private static int[][] playfield =  {{1,1,1,1,1,1,1,1,1,1},
             {1,1,1,1,1,1,1,1,1,1},
             {1,1,1,1,1,1,1,1,1,1},
@@ -51,7 +51,7 @@ public class blockstackgame {
     }
     public static void main(String[] args){
 
-        blockstackgame.clear();
+        quartet.clear();
     }
 }
 
