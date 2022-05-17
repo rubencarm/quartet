@@ -1,4 +1,4 @@
-public class Tetris {
+public class blockstackgame {
     private static int[][] playfield =  {{1,1,1,1,1,1,1,1,1,1},
             {1,1,1,1,1,1,1,1,1,1},
             {1,1,1,1,1,1,1,1,1,1},
@@ -51,7 +51,7 @@ public class Tetris {
     }
     public static void main(String[] args){
 
-        Tetris.clear();
+        blockstackgame.clear();
     }
 }
 
