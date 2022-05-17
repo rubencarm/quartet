@@ -1,4 +1,4 @@
-# What does tetris need?
+# What does blocky stacky game need need?
   
  - Core
     1. Playfield
@@ -8,7 +8,7 @@
     5. Gravity
  - Extra
     1. Score
-    2. Types of clears (quartet, Triple, Double, Single, T-Spin)
+    2. Types of clears (blockstackgame, Quartet, Double, Single, T-Spin)
     3. Modes (Marathon, Sprint, VS?)
     4. Attack
     5. 
