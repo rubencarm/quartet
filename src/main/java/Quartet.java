@@ -1,4 +1,4 @@
-public class quartet {
+public class Quartet {
     private static int[][] playfield =  {{1,1,1,1,1,1,1,1,1,1},
             {1,1,1,1,1,1,1,1,1,1},
             {1,1,1,1,1,1,1,1,1,1},
@@ -51,7 +51,7 @@ public class quartet {
     }
     public static void main(String[] args){
 
-        quartet.clear();
+        Quartet.clear();
     }
 }
 
